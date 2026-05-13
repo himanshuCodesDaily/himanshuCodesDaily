@@ -1,20 +1,29 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 
-# ⚡ Hey, I'm Himanshu
+<p align="center">
+  🚀 BSc CS Student | AI & Web Dev Enthusiast
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BSc+CS+Student+from+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+AI+%7C+DSA+%7C+Web+Development;Building+Cool+Projects+Every+Day+%F0%9F%9A%80;Learning+in+Public+and+Growing+Daily" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+DSA;Building+Cool+Projects;Exploring+AI+and+Open+Source" />
+</p>
 
 ---
 
-## 💫 About Me
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
+</p>
 
-```cpp
-class Himanshu {
-public:
-    string username = "himanshuCodesDaily";
-    string role = "Student Developer";
-    string learning = "AI, DSA, Web Dev";
-    string goal = "Build impactful tech projects";
-};
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
